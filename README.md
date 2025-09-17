@@ -1,1 +1,29 @@
-# Test1
+<!DOCTYPE html>
+<html></html>   
+       <head></head>
+       <body>
+        <title>"Laboratory  Exam - Opena Maria Isabel M."</title>
+        <table>
+            <h1><center><img src="isa.jpg" alt="This is My profile"></center></h1>
+            <h1><center>Opena Maria Isabel M.</center></h1>
+            <h1><center>1 year BSIT</center></h1>
+            <h1><center><a href="HTML/index.html/project.html">Home</a>|<a href="file:///Z:/HTML/index.html/aboutme.html">aboutme</a>|Project</center></h1>
+            <h1><b><i>My Hobbies</i></b></h1>
+            <li>
+                <li>Volleyball</li>
+                <li>Playing video games</li>
+                <li>Basketball</li>
+                <li>Learning how to edit photo</li>
+                <li> singing</li>
+            <h1><i><b>My Favorite Website</b></i></h1>
+            <li>1.<a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TewzEouKzZg9GKvzC8tKU1KBQA_-AaN&q=youtube&rlz=1C1VDKB_enPH1180&oq=ypo&gs_lcrp=EgZjaHJvbWUqDwgBEC4YChiDARixAxiABDIJCAAQRRg5GIAEMg8IARAuGAoYgwEYsQMYgAQyDwgCEC4YChiDARixAxiABDIJCAMQABgKGIAEMg8IBBAAGAoYgwEYsQMYgAQyBwgFEAAYgAQyDwgGEAAYChiDARixAxiABDIGCAcQBRhA0gEIMjY3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on">youtube</a> - Great tutorials in coding HTML and java script.</li>
+            <li>2..<a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwMU02T1JgNGB0YPBiS8_PT89JBQBASQXT&q=google&rlz=1C1VDKB_enPH1180&oq=go&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggAEEUYOTITCAEQLhiDARjHARixAxjRAxiABDIQCAIQABiDARixAxiABBiKBTINCAMQABiDARixAxiABDIKCAQQABixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIGCAcQRRg80gEINDEyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on">google</a>google - Great in answering all my queastion.</li>
+
+            </li>
+            <h1><center>Contact me: 20254724@s.ubaguio.edu <a href="https://www.google.com/search?q=gmail&rlz=1C1VDKB_enPH1180&oq=gma&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyDwgBEEUYORiDARixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDIKCAQQABixAxiABDIJCAUQABgKGIAEMg0IBhAAGIMBGLEDGIAEMgoIBxAAGLEDGIAE0gEIMjY2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on">gmail/a>| Phone +63<09935316729></09935316729></center></h1>
+            <h1><center>Connect with me: <a href="https://www.facebook.com/">facebook</a>| <a href="https://github.com/dashboard">github</a></center></h1>
+        
+            
+        </table>
+       </body>
+    
